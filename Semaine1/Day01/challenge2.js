@@ -1,6 +1,4 @@
 
-console.log('chalange2===============');
-
 let notes = [12, 8, 15, 6, 18, 9, 14];
 let nbrEleve = 0;
 let somme = 0;
