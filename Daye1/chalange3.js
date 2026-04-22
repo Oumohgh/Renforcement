@@ -1,15 +1,18 @@
+
+console.log('chalange3 ==============================>');
+
 const personne = {
-    nom: 'mohammed',
-    prenom: 'oughlane',
-    age: 23,
-    ville: 'marrakech',
-    email: 'mohammed@gmail.com'
+    nom: 'salah',
+    prenom: 'zemrani',
+    age: 22,
+    ville: 'h-44',
+    email: 'salah@gmail.com'
 }
 console.log('ville ancienne : ', personne.ville);
-personne.ville = 'youssofia'
+personne.ville = 'ouled-Tiema'
 console.log('la ville apres la modification : ', personne.ville);
 
-personne.tele = '06';
+personne.tele = '0624494495';
 console.log("ce ci le numero de tele apres ajoute le : ", personne.tele);
 
 console.log("affichage des cle value de objet personne ")
