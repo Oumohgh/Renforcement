@@ -26,13 +26,3 @@ final class Coffre{
 
 
 }
-
-
-class Hack extends Coffre
-{
-
-}
-
-$c = new Hack("test","test");
-
-echo $c->masque("password");
